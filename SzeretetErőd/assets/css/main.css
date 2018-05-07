@@ -1,0 +1,78 @@
+html {
+  font-family: 'Catamaran', sans-serif;
+  font-family: 'Yantramanav', sans-serif;
+}
+
+
+.main-header {
+  background: linear-gradient(to right, rgba(253, 253, 253, 0.8), rgba(255, 246, 252, 0.8)), url('../img/kids2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 600px;
+  font-family: 'Catamaran', sans-serif;
+}
+
+h1,h2,h3,h4,h5 {
+  font-family: 'Catamaran', sans-serif;
+}
+
+p {
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 22px;
+}
+
+
+
+
+ #tsmt-cont, #tsmt, #intro   {
+  background: linear-gradient(to right, rgba(253, 253, 253, 0.8), rgba(255, 246, 252, 0.8)), url('../img/kids2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.citation {
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 20px;
+  letter-spacing: .8px;
+}
+
+.citation a {
+  font-size: 16px;
+ color: #80cbc4;
+}
+
+.citation a:hover {
+  border-bottom: 2px solid #80cbc4;
+}
+
+.bemutatkozas, .tsmt,  {
+  font-size: 20px;
+  letter-spacing: .8px;
+}
+
+#tsmt-cont img {
+  width: 300px;
+  height: 400px;
+}
+
+.tsmt-articles img {
+  width: 300px;
+/*  -webkit-transition: all ..5s ease;
+  -moz-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  -ms-transition: all .5s ease;
+  transition: all .5s ease;
+*/
+}
+
+/*.tsmt-articles img:hover {
+  width: 310px;
+}*/
+
+
+
+#home h3 {
+  margin-top: 10rem;
+}
